@@ -1,4 +1,4 @@
-# c-platform-detect
+# c-err
 
 ## Installation
 
