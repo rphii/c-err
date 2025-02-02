@@ -8,8 +8,6 @@
 #include <rphii/colorprint.h>
 #include <rphii/attr.h>
 
-
-
 #ifndef DEBUG
 #define DEBUG           0
 #define DEBUG_GETCH     0
